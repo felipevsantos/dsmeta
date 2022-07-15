@@ -12,7 +12,7 @@ function Header() {
             <h1>DSMeta</h1>
             <p>
               Desenvolvido por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+              <a href="https://www.linkedin.com/in/felipe-veiga-dos-santos-35b451183/"> Felipe Veiga Dos Santos</a>
             </p>
         </div>
     </header>
